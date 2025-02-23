@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Coastal Living Vacation Rental</h1>
+        <h1>to dave Welcome to Coastal Living Vacation Rental</h1>
     </header>
     <section id="property-details">
         <h2>About the Property</h2>
